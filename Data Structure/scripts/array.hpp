@@ -1,6 +1,8 @@
 
 #include <stdlib.h>
 
+// https://www.cs.cornell.edu/courses/cs3410/2019sp/labs/lab10/
+
 template <typename T>
 struct ArrayList
 {
